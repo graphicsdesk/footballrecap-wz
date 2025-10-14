@@ -7,12 +7,102 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Football entered the 2025 season as reigning Ivy League champions with high hopes. But now, ahead of the Homecoming game on Saturday, the Lions are sitting at an underwhelming 1-3 record. They have had a rocky start to a season full of frustration, but there may still be promise yet."
+          },
+          {
+            "type": "text",
+            "value": "After sharing the Ivy League title with Harvard and Dartmouth last season, head coach Jon Poppe entered his second year with the team looking to improve upon Columbia’s first conference title since 1961."
+          },
+          {
+            "type": "text",
+            "value": "The Lions faced off against Lafayette College in the <a href=\"https://www.columbiaspectator.com/sports/2025/09/19/football-falls-to-lafayette-in-season-opener/\">first game</a> of the season—a matchup that mirrored last season’s opener. In a game that featured inconsistent play from junior quarterback Chase Goodwin, the deciding factor proved to be the Light Blue’s defensive inability to stop the rush. Allowing 232 yards and five touchdowns, Columbia fell in a resounding 38-14 beatdown."
+          },
+          {
+            "type": "text",
+            "value": "In <a href=\"https://www.columbiaspectator.com/sports/2025/09/27/football-secures-first-victory-of-the-season-over-georgetown/\">week two</a>, the Lions looked to bounce back, taking on Georgetown University for the Lou Little Cup. Despite the defense’s continued struggles to stop the running game, the Light Blue pulled away with a win largely due to the team’s strong pass defense, which picked Hoya quarterback Dez Thomas II three times and limited him to just 67 yards through the air. The Lions secured their first victory of the season in a 19-10 defensive battle."
+          },
+          {
+            "type": "text",
+            "value": "Football next travelled <a href=\"https://www.columbiaspectator.com/sports/2025/10/04/football-opens-conference-play-with-loss-to-princeton/\">to Princeton</a> to open Ivy League play on Oct. 3. Goodwin once again struggled against the Tigers, throwing interceptions on back-to-back drives to end the first half. The Lions held onto a 10-7 lead in the fourth quarter, but Princeton responded with 10 points, resulting in a 19-10 defeat for the Light Blue."
+          },
+          {
+            "type": "text",
+            "value": "In the tune-up before Homecoming, the Lions returned home for a <a href=\"https://www.columbiaspectator.com/sports/2025/10/11/football-falls-31-7-to-no-78-lehigh/\">tough matchup </a>against the No. 7/8 Lehigh University. With Goodwin out dealing with injuries, junior quarterback Xander Menapace made his first career collegiate start. In the physical game, he finished with one touchdown and two interceptions, and he was knocked down for five sacks."
+          },
+          {
+            "type": "text",
+            "value": "Dominating Columbia in both passing and rushing yards, the Mountain Hawks led the Lions 31-0 halfway through the game’s third quarter. With a strong quarterback performance, Lehigh nearly doubled Columbia’s total offensive yardage on the day, and the game ended in a crushing 31-7 defeat for the Lions, knocking the team’s record to 1-3 as the season approaches its midpoint."
+          },
+          {
+            "type": "text",
+            "value": "The Light Blue’s early struggles are not entirely unexpected. Since the offense lost multiple key playmakers from last season, including wide receiver Bryson Canty, CC ’25, and running back Joey Giorgi, CC ’25, the team has struggled to find its footing and a concrete identity in the first few games of the season. However, junior wide receiver Titus Evans has emerged as a crucial piece of the team’s offensive scheme, leading the pack in scrimmage yards this season."
+          },
+          {
+            "type": "text",
+            "value": "Offensive coordinator Seitu Smith identified experience as a crucial and ongoing development on the offensive side of the ball."
+          },
+          {
+            "type": "text",
+            "value": "“We can definitely execute better, and we’re working on that,” Smith wrote in a statement to Spectator. “The promising thing is, we’ve gotten some of our inexperienced guys experience in these first few weeks. Now that they’ve got some games under their belts, they should progress the right way.”"
+          },
+          {
+            "type": "text",
+            "value": "With the exception of Saturday’s tough matchup against Lehigh, the Lions’ offense has been working on its ability to move the ball, improving in total offensive yardage in each of the first three games of the season."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "football.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "On the other side of the ball, the major issue for the Lion defense has been stopping the rush. However, the lineup has been consistently strong at limiting the opponent’s air attack, only allowing one passing touchdown the entire season in the game against Lehigh."
+          },
+          {
+            "type": "text",
+            "value": "“I think the defense has shown improvement each week, but we still have some work to do to get to where we want to be,” defensive coordinator Justin Stovall wrote in a statement to Spectator. “We’ve got to eliminate some of the big plays we’ve given up and be more consistent getting off the field on third down.”"
+          },
+          {
+            "type": "text",
+            "value": "Looking ahead to the final stretch of conference games, the Lions will fight to recover momentum and turn the season around at Homecoming."
+          },
+          {
+            "type": "text",
+            "value": "“I’m not satisfied at all. Not happy. I don’t think anyone is right now with where we’re at,” head coach Jon Poppe said. “But we’re working the right way and guys have the right approach for sure.”"
+          },
+          {
+            "type": "text",
+            "value": "Football will face Penn at Homecoming on Oct. 18. The game will kick off at 1:30 p.m. and be streamed on ESPN+."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Holden Lombardo can be contacted at holden.lombardo@columbiaspectator.com. Follow Spectator Sports on X </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Ava Fung can be contacted at </i><a href=\"mailto:ava.fung@columbiaspectator.com\"><i>ava.fung@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Football has had a rocky start to the season. Can it turn things around?",
+        "dek": "The defending Ivy League champions have shown flashes of promise amid a disappointing string of games and a 1-3 record.",
+        "date": "October 14, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/holden-lombardo/\">Holden Lombardo</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/ava-fung/\">Ava Fung</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/VIMFSV3PR5D47O3YK5Q6L6CXNQ.jpg",
+        "cover_caption": "Jackson Dilks / Columbia Daily Spectator",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/15YIq5_dyOPHSnG1dhyS29NISkODkKNzrfXKjb_jXwxw/edit?tab=t.0"
       }
     }
   }
